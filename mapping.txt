@@ -1,0 +1,13 @@
+| Class ID | RGB         | Meaning (CamVid Standard) |
+| -------- | ----------- | ------------------------- |
+| **0**    | 128,128,128 | Sky                       |
+| **1**    | 128,0,0     | Building                  |
+| **2**    | 192,192,128 | Pole                      |
+| **3**    | 128,64,128  | Road Marking / Lane       |
+| **4**    | 0,0,192     | Road                      |
+| **5**    | 128,128,0   | Pavement / Sidewalk       |
+| **6**    | 192,128,128 | Tree / Vegetation         |
+| **7**    | 64,64,128   | Sign / SignSymbol         |
+| **8**    | 64,0,128    | Fence                     |
+| **9**    | 64,64,0     | Car                       |
+| **10**   | 0,128,192   | Pedestrian / Cyclist      |

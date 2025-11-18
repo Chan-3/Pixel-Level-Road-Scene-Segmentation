@@ -1,0 +1,42 @@
+# -------------------------
+# Python ignores
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# -------------------------
+# Project-specific ignores
+# -------------------------
+
+# Dataset files (do NOT commit raw data)
+camvid/images/
+camvid/labels/
+camvid/labels_processed/
+camvid/raw_images/
+camvid/raw_labels/
+*.zip
+
+# Temporary
+tmp/
+temp/
